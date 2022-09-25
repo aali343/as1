@@ -4,6 +4,8 @@
 The code in this assignment is tested on Python 3.8
 Easy installation of the virtual environment:
 ```
+git clone https://github.com/aali343/as1
+cd as1
 bash install.sh
 ```
 Required packages:
