@@ -1,0 +1,21 @@
+{'learning_rate': 0.2, 'loss': 'exponential', 'max_depth': 6, 'min_samples_leaf': 0.1, 'min_samples_split': 0.1, 'n_estimators': 50, 'subsample': 0.9}
+training accuracy:  1.0
+cross validation accuracy:  87.89473684210526
+testing accuracy:  87.71929824561403
+{'learning_rate': 0.2, 'loss': 'exponential', 'max_depth': 6, 'min_samples_leaf': 0.1, 'min_samples_split': 0.1, 'n_estimators': 50, 'subsample': 0.9}
+training accuracy:  1.0
+cross validation accuracy:  92.29729729729729
+testing accuracy:  93.85964912280701
+{'learning_rate': 0.2, 'loss': 'exponential', 'max_depth': 6, 'min_samples_leaf': 0.1, 'min_samples_split': 0.1, 'n_estimators': 50, 'subsample': 0.9}
+training accuracy:  1.0
+cross validation accuracy:  94.51178451178451
+testing accuracy:  94.73684210526315
+{'learning_rate': 0.2, 'loss': 'exponential', 'max_depth': 6, 'min_samples_leaf': 0.1, 'min_samples_split': 0.1, 'n_estimators': 50, 'subsample': 0.9}
+training accuracy:  1.0
+cross validation accuracy:  94.50532724505327
+testing accuracy:  93.85964912280701
+{'learning_rate': 0.2, 'loss': 'exponential', 'max_depth': 6, 'min_samples_leaf': 0.1, 'min_samples_split': 0.1, 'n_estimators': 50, 'subsample': 0.9}
+training accuracy:  0.9956043956043956
+cross validation accuracy:  94.06593406593406
+testing accuracy:  93.85964912280701
+Time taken to fit:  0.014239788055419922
